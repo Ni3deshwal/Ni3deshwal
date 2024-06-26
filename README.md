@@ -3,8 +3,8 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB**
+- 🌱 I’m currently Working **Full Stack Web Development**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB, Java, SpringBoot**
 - 💬 Ask me about Anything ! I am happy to help.
 - 💻 Nitin Deswal PortFolio https://ni3deshwal.github.io/ 
 - 📄 Project Asos Clonning https://asos-clone-cw.netlify.app
