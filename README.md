@@ -8,7 +8,7 @@
 - 💬 Ask me about Anything ! I am happy to help.
 - 💻 Nitin Deswal PortFolio https://ni3deshwal.github.io/ 
 - 📄 Project Asos Clonning https://asos-clone-cw.netlify.app
-- 📄 Know about my experiences [See Resume.]([https://drive.google.com/drive/folders/12SpIqoq1hk7PIWn5sBR_1SfUJY1uidDl?usp=share_link](https://drive.google.com/file/d/1tjEBXfAeSys14afwPD6SsRzGbpIqFWvQ/view?usp=drive_link))
+- 📄 Know about my experiences [See Resume.](https://drive.google.com/file/d/1tjEBXfAeSys14afwPD6SsRzGbpIqFWvQ/view?usp=drive_link)
 - 📫 How to reach me **ni3deswal@gmail.com**
 
  <p align="left">  
