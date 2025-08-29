@@ -6,8 +6,6 @@
 - 🌱 I’m currently Working **Full Stack Web Development**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB, Java, SpringBoot**
 - 💬 Ask me about Anything ! I am happy to help.
-- 💻 Nitin Deswal PortFolio https://ni3deshwal.github.io/ 
-- 📄 Project Asos Clonning https://asos-clone-cw.netlify.app
 - 📄 Know about my experiences [See Resume.](https://drive.google.com/file/d/1oWj07dyI-FjcIXt9N7Xs0Y3xYrX8liGp/view?usp=sharing)
 - 📫 How to reach me **ni3deswal@gmail.com**
 
